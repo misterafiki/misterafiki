@@ -7,8 +7,8 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Rafael+Becerra+Guerra;Desarrollador+Web;Experto+en+Ciberseguridad!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&bg_color=0D1117&text-color=green" alt="Animated Text">
 </p>
 
-<p align="center" >
-  <img src="GIF/Melt Down Cat Day GIF by Golden Wolf.gif" alt="GIF animado" >
+<p align="center"  style="background-color: #f0f0f0; padding: 10px;">
+  <img src="GIF/Melt Down Cat Day GIF by Golden Wolf.gif" style="width: 25%; height: auto;" >
 </p>
 
 
