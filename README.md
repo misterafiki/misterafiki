@@ -81,9 +81,9 @@
 
 ## Conectemos 
 
-- **Email:** [tu-email@example.com](mailto:tu-email@example.com)
-- **LinkedIn:** [Rafael Becerra Guerra](https://www.linkedin.com/in/tu-linkedin)
-- **Twitter:** [@tu-twitter](https://twitter.com/tu-twitter)
+- **Email:** [rafikibece9@gmail.com](mailto:rafikibece9@gmail.com)
+- **LinkedIn:** [Rafael Becerra Guerra]([https://www.linkedin.com/in/tu-linkedin](https://www.linkedin.com/in/rafael-becerra-guerra-49149623b/))
+- **Twitter:** [@Misterafiki](https://x.com/Misterafiki)
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
