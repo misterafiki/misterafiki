@@ -82,7 +82,7 @@
 ## Conectemos 
 
 - **Email:** [rafikibece9@gmail.com](mailto:rafikibece9@gmail.com)
-- **LinkedIn:** [Rafael Becerra Guerra]([https://www.linkedin.com/in/tu-linkedin](https://www.linkedin.com/in/rafael-becerra-guerra-49149623b/))
+- **LinkedIn:** [Rafael Becerra Guerra](https://www.linkedin.com/in/rafael-becerra-guerra-49149623b/)
 - **Twitter:** [@Misterafiki](https://x.com/Misterafiki)
 
 
