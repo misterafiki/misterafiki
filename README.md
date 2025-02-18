@@ -1,29 +1,32 @@
-<div>
 🔴🟡🟢
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" align=right> Hola! Mi nombre es Ralpha
  
-</div>
-<div>
+
 <p align="center" align="top">
   <img src="https://readme-typing-svg.demolab.com/?lines=Rafael+Becerra+Guerra;Desarrollador+Web;Experto+en+Ciberseguridad!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&bg_color=0D1117&text-color=green" alt="Animated Text">
 </p>
-<p align="center">
-<a href="https://github.com/misterafiki?tab=followers" >
-    <img src="https://img.shields.io/github/followers/misterafiki?style=social" alt="Followers" />
-</a>
+
+<p align="center" style="background-color: #f0f0f0; padding: 10px;">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnE5N2tnbXVxaHV6dHVzbXF5aHF2bzU2YnhlZGxqOXR1N3lmZGF1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2JYsOKl41XvvTn1wFK/giphy.gif" alt="GIF animado" >
 </p>
-</div>
-
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <p style="flex: 1; margin-right: 20px;">
-    Hola, soy <strong>Rafael Becerra Guerra</strong>, un apasionado <strong>Desarrollador Web</strong> y <strong>Experto en Ciberseguridad</strong>. Me encanta crear soluciones innovadoras y seguras, y siempre estoy en la búsqueda de nuevos retos que impulsen mi crecimiento profesional.
-  </p>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXd1ZTVnZXI4bWl4aDVuenJudmgzdjJid2c5eHljaWdybnU5em1uZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U8rR0oqWiUYa4/giphy.gif" alt="GIF animado" style="flex: 0 0 150px; border-radius: 50%;">
-</div>
 
 
-<div>
+<p align="center">
+  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=misterafiki&style=flat&color=blue"> •   
+  <a href="https://user-badge.committers.top/india_private/misterafiki"><img src="https://user-badge.committers.top/india_private/misterafiki.svg"></a> •
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/misterafiki?label=Followers&style=social"> •
+  <img src="https://img.shields.io/github/stars/misterafiki?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
+  <a href="https://github.com/sponsors/misterafiki"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
+</p>
+
+
+
+  <img align="right"  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXd1ZTVnZXI4bWl4aDVuenJudmgzdjJid2c5eHljaWdybnU5em1uZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U8rR0oqWiUYa4/giphy.gif" alt="GIF animado" style=" border-radius: 50%;">
+
+</br>
+
+
 
 ## Formación y Certificaciones
 
@@ -32,34 +35,25 @@
 - **Curso de Ciberseguridad:** Capacitación intensiva para proteger sistemas y redes.
 - **Estudios Actuales:** Actualmente profundizo mis conocimientos en programación y tecnologías emergentes.
 
-</div>
+## 🛠️ &nbsp;Mis Tecnologías
+
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js)&nbsp;
+![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
+![React Native](https://img.shields.io/badge/-React%20Native-0D1117?style=flat&logo=react)&nbsp;
+![Php](https://img.shields.io/badge/-Php-0D1117?style=flat&logo=php)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=flat&logo=kotlin)&nbsp;
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-0D1117?style=flat&logo=jupyter)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat&logo=docker)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-0D1117?style=flat&logo=markdown)
 
 
-<div>
-
-  ## 🛠️ &nbsp;Mis Tecnologías
-
-  ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)&nbsp;
-  ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript)&nbsp;
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript)&nbsp;
-  ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js)&nbsp;
-  ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
-  ![React Native](https://img.shields.io/badge/-React%20Native-0D1117?style=flat&logo=react)&nbsp;
-  ![Php](https://img.shields.io/badge/-Php-0D1117?style=flat&logo=php)&nbsp;
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=flat&logo=kotlin)&nbsp;
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-0D1117?style=flat&logo=jupyter)&nbsp;
-  ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat&logo=docker)&nbsp;
-  ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)&nbsp;
-  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-  ![Markdown](https://img.shields.io/badge/-Markdown-0D1117?style=flat&logo=markdown)
-
-
-</div>
-
-
-<div>
 
 ## Intereses y Pasatiempos
 
@@ -68,9 +62,6 @@
 - **Aprendizaje Continuo:** Me encanta investigar y estar al día con las últimas tendencias tecnológicas.
 - **Innovación y Creatividad:** Disfruto creando soluciones únicas y aportando ideas frescas en cada proyecto.
 
-</div>
-
-<div>
 
 ## Estadísticas de GitHub
 
@@ -87,9 +78,6 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=misterafiki&theme=dark&hide_border=true" alt="Racha de contribuciones en GitHub"/>
 </p>
 
-</div>
-
-<div>
 
 ## Conectemos 
 
@@ -97,13 +85,11 @@
 - **LinkedIn:** [Rafael Becerra Guerra](https://www.linkedin.com/in/tu-linkedin)
 - **Twitter:** [@tu-twitter](https://twitter.com/tu-twitter)
 
-</div>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!-- snake -->
-<div>
-  <img src="https://github.com/misterafiki/misterafiki/github-contribution-grid-snake.svg" alt="snake">
-</div>
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/misterafiki/misterafiki/blob/main/github-contribution-grid-snake.svg)
+
 
 ¡Siempre estoy abierto a colaborar en nuevos proyectos y desafíos!
