@@ -8,7 +8,7 @@
 </p>
 
 <p align="center"  style="background-color: #f0f0f0; padding: 10px;">
-  <img src="GIF/Melt Down Cat Day GIF by Golden Wolf.gif" style="width: 25%; height: auto;" >
+  <img src="GIF/Melt Down Cat Day GIF by Golden Wolf.gif" style="width: 50%; height: auto;" >
 </p>
 
 
