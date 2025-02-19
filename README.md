@@ -3,7 +3,7 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" align=right>Hey there! I'm Ralph
 
 <p align="center" align="top">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Rafael+Becerra+Guerra;Desarrollador+Web;Experto+en+Ciberseguridad!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&bg_color=0D1117&text-color=green" alt="Animated Text">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Rafael+Becerra+Guerra;Desarrollador+Web;Experto+en+Ciber+seguridad!; Administrador+de+Sistemas+Informático s&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&bg_color=0D1117&text-color=green" alt="Animated Text">
 </p>
 
 <p align="center"  style="background-color: #f0f0f0; padding: 10px;">
